@@ -13,11 +13,6 @@ An example application that shows how to implement Prometheus Metrics
 
 An example application that shows how to implement Prometheus Metrics into your Golang application and visualize the data using Grafana.
 
-### Requirements
-
-- Golang
-- Docker
-
 ## Getting started
 
 #### Starting the application

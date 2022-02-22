@@ -6,7 +6,9 @@
 An example application that shows how to implement Prometheus Metrics
 </p>
 </div>
-  
+
+[![CodeQL](https://github.com/vibgreon/Monitoring-Metrics-using-Prometheus/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/vibgreon/Monitoring-Metrics-using-Prometheus/actions/workflows/codeql-analysis.yml)
+
 ## About
 
 An example application that shows how to implement Prometheus Metrics into your Golang application and visualize the data using Grafana.

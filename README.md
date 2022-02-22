@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/1.svg" height="auto" width="400" /><img src="assets/2.svg" height="auto" width="400" />
+<img src="assets/1.svg" height="auto" width="100" /><img src="assets/2.svg" height="auto" width="100" />
 <br />
 <h1>Monitoring Metrics using Prometheus</h1>
 <p>
